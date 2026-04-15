@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**veswwaaa/veswwaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Kevin Apta
+### Software Developer | IoT Enthusiast | Cybersecurity Learner
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/veswwaaa) 
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanoaji402@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Programming Languages**
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Runtimes**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases & Cloud Services**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Others**
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Coding Activity
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=kevzka&show_icons=true&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kevzka&layout=compact&theme=tokyonight" height="180em" />
+
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kevzka&theme=tokyonight" width="82%" />
+
+---
+
+### 💡 Problem Solving & Achievements
+
+<img src="https://leetcode.card.workers.dev/kevinapta?theme=dark&font=baloo&extension=null" width="45%" /> <img src="https://github-contributor-stats.vercel.app/api?username=kevzka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" />
+
+<br/>
+
+**🏆 GitHub Trophies** <br/>
+![](https://github-profile-trophy.vercel.app/?username=kevzka&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=kevzka&icon=0&color=0)
+
+</div>
