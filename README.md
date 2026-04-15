@@ -30,26 +30,26 @@
 
 ### 📊 GitHub Coding Activity
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=kevzka&show_icons=true&theme=tokyonight" height="180em" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kevzka&layout=compact&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=veswwaaa&show_icons=true&theme=tokyonight" height="180em" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=veswwaaa&layout=compact&theme=tokyonight" height="180em" />
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=kevzka&theme=tokyonight" width="82%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=veswwaaa&theme=tokyonight" width="82%" />
 
 ---
 
 ### 💡 Problem Solving & Achievements
 
-<img src="https://leetcode.card.workers.dev/kevinapta?theme=dark&font=baloo&extension=null" width="45%" /> <img src="https://github-contributor-stats.vercel.app/api?username=kevzka&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" />
+<img src="https://leetcode.card.workers.dev/veswwaaa?theme=dark&font=baloo&extension=null" width="45%" /> <img src="https://github-contributor-stats.vercel.app/api?username=veswwaaa&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="45%" />
 
 <br/>
 
 **🏆 GitHub Trophies** <br/>
-![](https://github-profile-trophy.vercel.app/?username=kevzka&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=veswwaaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=kevzka&icon=0&color=0)
+![Visitor Count](https://visitcount.itsvg.in/api?id=veswwaaa&icon=0&color=0)
 
 </div>
