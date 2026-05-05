@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hii there, I'm Selvano Sena Aji Patria
+# 👋 Hello there, I'm Selvano Sena Aji Patria
 ### Software Developer | IoT Enthusiast | Cybersecurity Learner
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/veswwaaa) 
